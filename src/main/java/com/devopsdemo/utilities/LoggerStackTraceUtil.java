@@ -10,6 +10,7 @@ import org.slf4j.LoggerFactory;
 public class LoggerStackTraceUtil {
 
     /**
+    ***
      * Returns the stack trace of an exception as a string.
      * @param ex the exception
      * @return the stack trace string
