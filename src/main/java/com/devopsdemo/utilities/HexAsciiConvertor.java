@@ -3,7 +3,7 @@ package com.devopsdemo.utilities;
 public class HexAsciiConvertor {
 
     /**
-    ***
+    **
      * Converts hexadecimal values into ASCII.
      *
      * @param hexValue the hexadecimal value
